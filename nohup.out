@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/home/edwin/log_analyzer/log_maker.py", line 11, in <module>
+    time.sleep(10)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/home/edwin/log_analyzer/log_maker.py", line 11, in <module>
+    time.sleep(10)
+KeyboardInterrupt
